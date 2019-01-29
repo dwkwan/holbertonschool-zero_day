@@ -1,0 +1,1 @@
+This project is about how you can use Vagrant to manage VMs like Ubuntu.
